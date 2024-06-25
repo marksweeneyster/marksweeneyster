@@ -1,5 +1,6 @@
 ### Hola 👋
 - 🔭 Current things I'm working on ...
+  - [C++ concurrency sandbox](https://github.com/marksweeneyster/cpp_concurrency_box) Working through the fundamentals
   - [Rust and ZeroMQ](https://github.com/marksweeneyster/rust_zeromq_box) Recently added flatbuffers in the mix
   - [Cleaning up my Gumby detector](https://github.com/marksweeneyster/gumby_yolo) The goal is to work with other 3D cameras (currently it's Intel RealSense2 only)
     - [demo](https://vimeo.com/952154181?share=copy) 
